@@ -24,8 +24,8 @@ HELP* graphics are from Sprite Fix (so they include the cleaned-up pixels),
 but the sides are from WidePix (my widescreen graphics project that ships
 with GZDoom starting from v4.5.0 onwards).
 
-Note: The widescreen fixes from Heretic Minor Sprite Fixing have been
-ommitted, in favor of GZDoom's own widescreen fixes for Heretic.
+Note: The widescreen weapon sprite fixes have been ommitted, in favor of
+GZDoom's own widescreen fixes included in game_widescreen_gfx.pk3.
 
 Credits:
 
