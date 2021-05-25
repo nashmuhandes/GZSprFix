@@ -1,0 +1,50 @@
+===========================================================================
+Advanced engine needed  : Limit-removing (Use DeuSF to make heretic.exe compatible)
+===========================================================================
+Title                   : Heretic Minor Sprite Fixing Project v1.0
+Filename                : HRSPFX10.WAD
+Release date            : 7/5/13
+Author                  : Revenant100 aka Marphy Black
+
+Description             : A comprehensive collection of minor sprite fixes
+                          for Heretic. This is compatible with any custom
+                          Heretic add-on as long as you load HRSPFX10.WAD
+                          with the lowest priority.
+
+			  Use with Heretic Widescreen-Friendly Graphics v1.0
+			  (HRWIDE10.WAD) is highly recommended!
+
+Additional Credits to   : None
+
+===========================================================================
+* What is included *
+
+New levels              : None
+Sounds                  : No
+Music                   : No
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Heretic
+Map #                   : None
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : No
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : 
+Build Time              : 
+Editor(s) used          : SLADE v3.1.0 alpha (r1374)
+Known Bugs              : None
+May Not Run With        : Vanilla heretic.exe (Use DeuSF to add compatibility)
+Tested With             : ZDoom

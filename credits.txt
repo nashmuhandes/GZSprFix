@@ -1,0 +1,38 @@
+GZSprFix
+--------
+
+Compiled by Nash Muhandes
+
+A conversion of Revenant100's Doom Minor Sprite Fixing Project and Heretic
+Minor Sprite Fixing into a single, GZDoom-compatible mod.
+
+First of all, this mod repacks the 2 mods mentioned above into one file,
+utilizing GZDoom's filter folder feature so that only the relevant files will
+get applied depending on the IWAD game you are running. For example: the
+Heretic fixes won't be applied if you're playing the Doom games; or the Doom 2
+fixes won't be applied if you're playing Doom 1, etc. What this means for the
+user is that they can just have this single mod loaded globally for all games
+without any potential issues arising from wrongly-loaded lumps.
+
+Secondly, I have converted the Dehacked patches from Doom Sprite Fix into
+ZScript.
+
+Lastly, since this mod is meant for GZDoom, I've merged in my widescreen
+versions of Doom's HELP* graphics, but only attaching the side extensions to
+the Sprite Fix versions of the graphics. In other words, the center of the
+HELP* graphics are from Sprite Fix (so they include the cleaned-up pixels),
+but the sides are from WidePix (my widescreen graphics project that ships
+with GZDoom starting from v4.5.0 onwards).
+
+Note: The widescreen fixes from Heretic Minor Sprite Fixing have been
+ommitted, in favor of GZDoom's own widescreen fixes for Heretic.
+
+Credits:
+
+- id Software for Doom
+- Revenant100 and the various contributors for the Doom Minor Sprite Fixing
+Project and Heretic Minor Sprite Fixing. I have included SPRFIX19.txt and
+HRSPFX10.txt from the original distributions, which contain full credits
+for said mods.
+- Nash Muhandes for the GZDoom repack, Dehacked to ZScript conversion and
+widescreen extensions of Doom's HELP* graphics
