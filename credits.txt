@@ -24,7 +24,11 @@ HELP* graphics are from Sprite Fix (so they include the cleaned-up pixels),
 but the sides are from WidePix (my widescreen graphics project that ships
 with GZDoom starting from v4.5.0 onwards).
 
-Note: The widescreen weapon sprite fixes have been ommitted, in favor of
+Misc notes:
+
+- The super shotgun sprites are actually from GZDoom's game_widescreen_gfx.pk3,
+but with the fixed offsets from SPRFIX19.
+- The widescreen Heretic fixes from HRSPFX10 have been ommitted, in favor of
 GZDoom's own widescreen fixes included in game_widescreen_gfx.pk3.
 
 Credits:
@@ -34,5 +38,5 @@ Credits:
 Project and Heretic Minor Sprite Fixing. I have included SPRFIX19.txt and
 HRSPFX10.txt from the original distributions, which contain full credits
 for said mods.
-- Nash Muhandes for the GZDoom repack, Dehacked to ZScript conversion and
-widescreen extensions of Doom's HELP* graphics
+- Nash Muhandes for the GZDoom repack, Dehacked to ZScript conversion and other
+resources forwarded from GZDoom's game_widescreen_gfx.pk3
