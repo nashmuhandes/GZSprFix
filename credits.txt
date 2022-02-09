@@ -30,6 +30,7 @@ Misc notes:
 but with the fixed offsets from SPRFIX19.
 - The widescreen Heretic fixes from HRSPFX10 have been ommitted, in favor of
 GZDoom's own widescreen fixes included in game_widescreen_gfx.pk3.
+- For brightmaps, use NightFright's Brightmaps Plus mod!
 
 Credits:
 
