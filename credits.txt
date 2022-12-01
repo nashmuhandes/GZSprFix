@@ -27,7 +27,7 @@ with GZDoom starting from v4.5.0 onwards).
 Misc notes:
 
 - The super shotgun sprites are actually from GZDoom's game_widescreen_gfx.pk3,
-but with the fixed offsets from SPRFIX19.
+but with the fixed offsets from SPRFIX20.
 - The widescreen Heretic fixes from HRSPFX10 have been ommitted, in favor of
 GZDoom's own widescreen fixes included in game_widescreen_gfx.pk3.
 - For brightmaps, use NightFright's Brightmaps Plus mod!
@@ -36,7 +36,7 @@ Credits:
 
 - id Software for Doom
 - Revenant100 and the various contributors for the Doom Minor Sprite Fixing
-Project and Heretic Minor Sprite Fixing. I have included SPRFIX19.txt and
+Project and Heretic Minor Sprite Fixing. I have included SPRFIX20.txt and
 HRSPFX10.txt from the original distributions, which contain full credits
 for said mods.
 - Nash Muhandes for the GZDoom repack, Dehacked to ZScript conversion and other

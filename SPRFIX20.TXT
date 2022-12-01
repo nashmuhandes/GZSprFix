@@ -1,17 +1,17 @@
 ===========================================================================
-Archive Maintainer      : An update to sprfix18.zip
-Update to               : sprfix18.zip
+Archive Maintainer      : An update to sprfix19.zip
+Update to               : sprfix19.zip
 Advanced engine needed  : Limit removing (Use DeuSF to make doom2.exe or
                           doom.exe compatible)
 Primary purpose         : No levels included
 ===========================================================================
-Title                   : Doom 2 Minor Sprite Fixing Project v1.9
-Filename                : D2SPFX19.WAD, D1SPFX19.WAD, D2DEHFIX.DEH,
+Title                   : Doom 2 Minor Sprite Fixing Project v2.0
+Filename                : D2SPFX20.WAD, D1SPFX20.WAD, D2DEHFIX.DEH,
                           D1DEHFIX.DEH
-Release date            : 11/29/17
+Release date            : 11/28/22
 Author                  : Revenant100 aka Marphy Black
 Email Address           : [redacted]
-Other Files By Author   : 100KREVS.WAD, INFREVS.WAD, REVPRBLM.WAD
+Other Files By Author   : 100KREVS.WAD, INFREVS.WAD, REVPRBLM.WAD, REVBUS.WAD
 
 Description             : A comprehensive collection of minor sprite fixes
                           for Doom 2 comprised of restored missing monster
@@ -23,10 +23,10 @@ Description             : A comprehensive collection of minor sprite fixes
                           compatibility, as long as you load the following
                           WAD or DEH files with the lowest priority.
                           
-                          D2SPFX19.WAD - Doom 2 sprite fixes
-                          D1SPFX19.WAD - Doom 1-compatible sprite fixes
-                          D2DEHFIX.DEH - doom2.exe v1.9 DeHackEd fixes
-                          D1DEHFIX.DEH - doom.exe v1.9 DeHackEd fixes
+                          D2SPFX20.WAD - Doom 2 sprite fixes
+                          D1SPFX20.WAD - Doom 1-compatible sprite fixes
+                          D2DEHFIX.DEH - doom2.exe v2.0 DeHackEd fixes
+                          D1DEHFIX.DEH - doom.exe v2.0 DeHackEd fixes
 
 Additional Credits to   : DoomJedi - Wolfenstein SS firing rotation sprites
                           ItsNatureToDie - SS firing rotation sprites
@@ -43,6 +43,9 @@ Additional Credits to   : DoomJedi - Wolfenstein SS firing rotation sprites
                             suggestions
                           HavoX - Arachnotron death frame fix
                           LemonWolf3322 - Hey, not too rough! comma fix
+                          JCST - Nightmare! brown and pink pixels fix
+						  maxmanium - Feedback and suggestions, assistance
+                            with duplicate palette colors technical review
 ===========================================================================
 * What is included *
 
@@ -70,8 +73,8 @@ Difficulty Settings     : Not implemented
 * Construction *
 
 Base                    : New from scratch
-Build Time              : 5 years and counting
-Editor(s) used          : SLADE v3.1.1.4, DeHackEd v3.0
+Build Time              : 10 years and counting
+Editor(s) used          : SLADE v3.2.1, DeHackEd v3.0
 Known Bugs              : None
 May Not Run With        : Vanilla doom2.exe and doom.exe (Use DeuSF to add
                           compatibility)

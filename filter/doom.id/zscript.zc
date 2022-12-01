@@ -39,3 +39,11 @@ class GZSprFixSpiderMastermind : SpiderMastermind replaces SpiderMastermind
 		Goto Missile + 1;
 	}
 }
+
+class GZNonsolidMeat3 : NonsolidMeat3 replaces NonsolidMeat3
+{
+	Default
+	{
+		Height 84;
+	}
+}
